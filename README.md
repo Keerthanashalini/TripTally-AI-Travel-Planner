@@ -135,6 +135,7 @@ VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_id
 VITE_FIREBASE_APP_ID=your_app_id
 VITE_GEMINI_API_KEY=your_gemini_key
 VITE_GEOAPIFY_KEY=your_geoapify_key
+VITE_OPENWEATHER_API_KEY=your_openweather_key
 ```
 
 ## 9. Deployment
