@@ -1,4 +1,4 @@
-![Thumbnail](./public/travelo-thumbnail.png)
+![TripTally Thumbnail](src/assests/thumbnail.jpeg)
 
 # 🛍️ TripTally – AI Trip Planner Web App
 
