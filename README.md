@@ -1,4 +1,4 @@
-![TripTally Thumbnail](./src/assests/thumbnail.jpeg)
+![TripTally Thumbnail](https://raw.githubusercontent.com/Keerthanashalini/TripTally-AI-Travel-Planner/main/src/assets/thumbnail.jpeg)
 
 # 🛍️ TripTally – AI Trip Planner Web App
 
