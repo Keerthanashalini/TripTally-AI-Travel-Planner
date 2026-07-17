@@ -1,0 +1,56 @@
+🧳 “If a vacation can be planned by AI, why make it complicated?”
+
+
+Lately, between freelance web development gigs, I wanted to build something simple but useful.
+
+Not a startup. Not a huge product. Just a small experiment to help people plan their trips the laziest way possible — click and fill in preferences.
+
+
+Meet TripTally ✨
+
+A web app that helps you generate automated day-by-day travel itineraries — hotels, activities, tips — all generated with Gemini AI 🧠
+
+
+This project was built using:
+
+- React + Tailwind (fast, clean UI)
+
+- Zustand (lightweight state management)
+
+- Firebase (authentication + database)
+
+- Geoapify (location)
+
+- Framer Motion + ShadCN (smooth UX)
+
+
+🧠 All planning logic is handled by AI integrated via the Gemini 1.5 API — just pick your departure, destination, duration, budget, and travel style, and boom: a complete itinerary appears.
+
+
+📌 Other features:
+
+- Google login
+
+- Dark mode
+
+- View, save, and delete trips
+
+- Destination images fetched from Wikipedia (sometimes fails, so a fallback URL is provided) 😄
+
+
+I built this project entirely with free resources. If you're looking to experiment, this project is highly recommended. Not perfect, but it proves that with open tools and a little creativity you can build something usable.
+
+🔗 Demo link: aitravelplanner.ahmadfiqrioemry.com
+
+🌐 Source code:
+
+
+If you have feedback, ideas, or just want to chat about the tech, I'm very open 🙌
+
+#ReactJS #AIProject #Gemini #WebDevelopment #OpenSource #BuildInPublic #TravelTech #SideProject
+
+
+
+kalau ada feedback, ide, atau cuma mau ngobrol soal teknologi ini, saya sangat terbuka 🙌
+
+#ReactJS #AIProject #Gemini #WebDevelopment #OpenSource #BuildInPublic #TravelTech #SideProject

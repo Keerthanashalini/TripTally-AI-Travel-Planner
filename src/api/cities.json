@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "name": "Hyderabad",
+    "province_id": 0
+  },
+  {
+    "id": 2,
+    "name": "Bengaluru",
+    "province_id": 0
+  },
+  {
+    "id": 3,
+    "name": "Chennai",
+    "province_id": 0
+  },
+  {
+    "id": 4,
+    "name": "Mumbai",
+    "province_id": 0
+  },
+  {
+    "id": 5,
+    "name": "Delhi",
+    "province_id": 0
+  },
+  {
+    "id": 6,
+    "name": "Kolkata",
+    "province_id": 0
+  },
+  {
+    "id": 7,
+    "name": "Pune",
+    "province_id": 0
+  },
+  {
+    "id": 8,
+    "name": "Ahmedabad",
+    "province_id": 0
+  },
+  {
+    "id": 9,
+    "name": "Jaipur",
+    "province_id": 0
+  },
+  {
+    "id": 10,
+    "name": "Lucknow",
+    "province_id": 0
+  },
+  {
+    "id": 11,
+    "name": "Visakhapatnam",
+    "province_id": 0
+  },
+  {
+    "id": 12,
+    "name": "Vijayawada",
+    "province_id": 0
+  },
+  {
+    "id": 13,
+    "name": "Goa",
+    "province_id": 0
+  },
+  {
+    "id": 14,
+    "name": "Mysore",
+    "province_id": 0
+  },
+  {
+    "id": 15,
+    "name": "Ooty",
+    "province_id": 0
+  },
+  {
+    "id": 16,
+    "name": "Coorg",
+    "province_id": 0
+  },
+  {
+    "id": 17,
+    "name": "Manali",
+    "province_id": 0
+  },
+  {
+    "id": 18,
+    "name": "Shimla",
+    "province_id": 0
+  },
+  {
+    "id": 19,
+    "name": "Srinagar",
+    "province_id": 0
+  },
+
+  {
+    "id": 20,
+    "name": "Darjeeling",
+    "province_id": 0
+  },
+  {
+    "id": 21,
+    "name": "Udaipur",
+    "province_id": 0
+  },
+
+  {
+    "id": 22,
+    "name": "Amritsar",
+    "province_id": 0
+  },
+  {
+    "id": 23,
+    "name": "Rishikesh",
+    "province_id": 0
+  },
+  {
+    "id": 24,
+    "name": "Varanasi",
+    "province_id": 0
+  },
+  {
+    "id": 25,
+    "name": "Agra",
+    "province_id": 0
+  },
+  {
+    "id": 26,
+    "name": "Kochi",
+    "province_id": 0
+  },
+  {
+    "id": 27,
+    "name": "Munnar",
+    "province_id": 0
+  },
+  {
+    "id": 28,
+    "name": "Alleppey",
+    "province_id": 0
+  },
+  {
+    "id": 29,
+    "name": "Kanyakumari",
+    "province_id": 0
+  },
+  {
+    "id": 30,
+    "name": "Thiruvananthapuram",
+    "province_id": 0
+  },
+  {
+    "id": 31,
+    "name": "Chandigarh",
+    "province_id": 0
+  },
+  {
+    "id": 32,
+    "name": "Bhopal",
+    "province_id": 0
+  },
+  {
+    "id": 33,
+    "name": "Indore",
+    "province_id": 0
+  },
+  {
+    "id": 34,
+    "name": "Nagpur",
+    "province_id": 0
+  },
+  {
+    "id": 35,
+    "name": "Surat",
+    "province_id": 0
+  },
+  {
+    "id": 36,
+    "name": "Patna",
+    "province_id": 0
+  },
+  {
+    "id": 37,
+    "name": "Bhubaneswar",
+    "province_id": 0
+  },
+  {
+    "id": 38,
+    "name": "Gangtok",
+    "province_id": 0
+  },
+  {
+    "id": 39,
+    "name": "Shillong",
+    "province_id": 0
+  },
+  {
+    "id": 40,
+    "name": "Aizawl",
+    "province_id": 0
+  },
+  {
+    "id": 41,
+    "name": "Itanagar",
+    "province_id": 0
+  },
+  {
+    "id": 42,
+    "name": "Kohima",
+    "province_id": 0
+  },
+  {
+    "id": 43,
+    "name": "Imphal",
+    "province_id": 0
+  },
+  {
+    "id": 44,
+    "name": "Dehradun",
+    "province_id": 0
+  },
+
+  {
+    "id": 45,
+    "name": "Haridwar",
+    "province_id": 0
+  },
+  {
+    "id": 46,
+    "name": "Madurai",
+    "province_id": 0
+  },
+  {
+    "id": 47,
+    "name": "Coimbatore",
+    "province_id": 0
+  },
+  {
+    "id": 48,
+    "name": "Puducherry",
+    "province_id": 0
+  },
+  {
+    "id": 49,
+    "name": "Tirupati",
+    "province_id": 0
+  },
+  {
+    "id": 50,
+    "name": "Tokyo",
+    "province_id": 0,
+    "country": "Japan"
+  },
+
+  {
+    "id": 51,
+    "name": "Osaka",
+    "province_id": 0,
+    "country": "Japan"
+  },
+  {
+    "id": 52,
+    "name": "Zurich",
+    "province_id": 0,
+    "country": "Switzerland"
+  },
+
+  {
+    "id": 53,
+    "name": "Geneva",
+    "province_id": 0,
+    "country": "Switzerland"
+  },
+  {
+    "id": 54,
+    "name": "New York",
+    "province_id": 0,
+    "country": "USA"
+  },
+  {
+    "id": 55,
+    "name": "Los Angeles",
+    "province_id": 0,
+    "country": "USA"
+  },
+  {
+    "id": 56,
+    "name": "San Francisco",
+    "province_id": 0,
+    "country": "USA"
+  },
+  {
+    "id": 57,
+    "name": "Bangkok",
+    "province_id": 0,
+    "country": "Thailand"
+  },
+  {
+    "id": 58,
+    "name": "Phuket",
+    "province_id": 0,
+    "country": "Thailand"
+  },
+
+  {
+    "id": 59,
+    "name": "Dubai",
+    "province_id": 0,
+    "country": "United Arab Emirates"
+  },
+  {
+    "id": 60,
+    "name": "Abu Dhabi",
+    "province_id": 0,
+    "country": "United Arab Emirates"
+  },
+  {
+    "id": 61,
+    "name": "Singapore",
+    "province_id": 0,
+    "country": "Singapore"
+  },
+  {
+    "id": 62,
+    "name": "Paris",
+    "province_id": 0,
+    "country": "France"
+  },
+  {
+    "id": 63,
+    "name": "Nice",
+    "province_id": 0,
+    "country": "France"
+  },
+  {
+    "id": 64,
+    "name": "London",
+    "province_id": 0,
+    "country": "United Kingdom"
+  },
+  {
+    "id": 65,
+    "name": "Manchester",
+    "province_id": 0,
+    "country": "United Kingdom"
+  },
+  {
+    "id": 66,
+    "name": "Bali",
+    "province_id": 0,
+    "country": "Indonesia"
+  },
+  {
+    "id": 67,
+    "name": "Jakarta",
+    "province_id": 0,
+    "country": "Indonesia"
+  },
+  {
+    "id": 68,
+    "name": "Malé",
+    "province_id": 0,
+    "country": "Maldives"
+  },
+  {
+    "id": 69,
+    "name": "Rome",
+    "province_id": 0,
+    "country": "Italy"
+  },
+  {
+    "id": 70,
+    "name": "Venice",
+    "province_id": 0,
+    "country": "Italy"
+  },
+  {
+    "id": 71,
+    "name": "Milan",
+    "province_id": 0,
+    "country": "Italy"
+  },
+  {
+    "id": 72,
+    "name": "Barcelona",
+    "province_id": 0,
+    "country": "Spain"
+  },
+  {
+    "id": 73,
+    "name": "Madrid",
+    "province_id": 0,
+    "country": "Spain"
+  },
+  {
+    "id": 74,
+    "name": "Sydney",
+    "province_id": 0,
+    "country": "Australia"
+  },
+  {
+    "id": 75,
+    "name": "Melbourne",
+    "province_id": 0,
+    "country": "Australia"
+  },
+  {
+    "id": 76,
+    "name": "Seoul",
+    "province_id": 0,
+    "country": "South Korea"
+  },
+  {
+    "id": 77,
+    "name": "Busan",
+    "province_id": 0,
+    "country": "South Korea"
+  },
+  {
+    "id": 78,
+    "name": "Kuala Lumpur",
+    "province_id": 0,
+    "country": "Malaysia"
+  },
+  {
+    "id": 79,
+    "name": "Langkawi",
+    "province_id": 0,
+    "country": "Malaysia"
+  },
+  {
+    "id": 80,
+    "name": "Istanbul",
+    "province_id": 0,
+    "country": "Turkey"
+  },
+  {
+    "id": 81,
+    "name": "Toronto",
+    "province_id": 0,
+    "country": "Canada"
+  },
+  {
+    "id": 82,
+    "name": "Vancouver",
+    "province_id": 0,
+    "country": "Canada"
+  },
+
+  {
+    "id": 91,
+    "name": "Cape Town",
+    "province_id": 0,
+    "country": "South Africa"
+  },
+  {
+    "id": 92,
+    "name": "Auckland",
+    "province_id": 0,
+    "country": "New Zealand"
+  }
+]
